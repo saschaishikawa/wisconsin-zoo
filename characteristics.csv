@@ -1,0 +1,43 @@
+Name,"Color=Tan/Brown,colorTanBrown.svg","Color=Red,colorRed.svg","Color=White,colorWhite.svg","Color=Gray/Black,colorGrayBlack.svg",Antlers=Yes,Antlers=No,"Pattern=Stripes,patternStripes.svg","Pattern=Bands,patternBands.svg","Pattern=Spots,patternSpots.svg","Pattern=Solid,patternSolid.svg","Tail=Bushy,patternBushy.svg","Tail=Smooth,patternSmooth.svg","Tail=Long,tailLong.svg","Tail=Short,tailShort.svg","Build=Stocky,tailStocky.svg","Build=Tall,buildTall.svg","Build=Lanky,buildLanky.svg","Build=Small,buildSmall.svg","Build=Low Slung,buildLowSlung.svg"
+"Opossum, Virginia",N,N,N,Y,N,Y,N,Y,N,Y,N,Y,Y,N,N,N,N,Y,Y
+Porcupine,Y,N,N,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+Muskrat,Y,N,N,N,N,Y,N,N,N,Y,N,Y,Y,N,N,N,N,Y,Y
+"Beaver, American",Y,N,N,N,N,Y,N,N,N,Y,N,Y,Y,N,N,N,N,Y,Y
+"Cottontail, Eastern",Y,N,Y,Y,N,Y,N,N,N,Y,Y,N,N,Y,N,N,N,Y,Y
+"Jackrabbit, White Tailed",Y,N,Y,Y,N,Y,N,N,N,Y,Y,N,N,Y,N,N,N,Y,Y
+"Hare, Snowshoe",Y,Y,Y,N,N,Y,N,N,N,Y,Y,N,N,Y,N,N,N,Y,Y
+Deer,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,N,N,Y,N,Y,Y,N,N
+Elk,Y,N,N,N,Y,N,N,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,N
+Moose,Y,Y,N,Y,Y,N,N,Y,N,Y,Y,N,N,Y,Y,Y,N,N,N
+Bobcat,Y,Y,N,Y,N,Y,N,N,Y,Y,Y,N,N,Y,N,N,Y,Y,N
+Lynx,Y,N,N,Y,N,Y,N,N,Y,Y,Y,N,N,Y,N,N,Y,Y,N
+Cougar,Y,N,N,N,N,Y,N,N,Y,Y,Y,N,Y,N,N,N,Y,Y,N
+"Wolf, Gray",Y,N,Y,Y,N,Y,N,N,N,Y,Y,N,Y,N,N,N,Y,Y,N
+Coyote,Y,N,Y,Y,N,Y,N,N,N,Y,Y,N,Y,N,N,N,Y,Y,N
+"Fox, Gray",N,Y,Y,Y,N,Y,N,Y,N,Y,Y,N,Y,N,N,N,Y,Y,N
+"Fox, Red",Y,Y,N,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,Y,Y,N
+"Bear, Black",Y,N,N,Y,N,Y,N,N,N,Y,Y,N,N,Y,Y,Y,N,N,N
+"Badger, American",Y,N,Y,Y,N,Y,N,Y,N,Y,Y,N,N,Y,N,N,N,Y,Y
+Raccoon,Y,N,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,N,N,N,Y,Y
+"Skunk, Striped",N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,N,N,N,N,Y,Y
+"Skunk, Spotted",N,N,Y,Y,N,Y,Y,Y,N,N,Y,N,Y,N,N,N,N,Y,Y
+Weasel,Y,N,Y,N,N,Y,N,Y,N,Y,Y,N,Y,N,N,N,N,Y,Y
+"Marten, American",Y,N,N,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+"Mink, American",Y,N,N,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+Fisher,Y,N,N,Y,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+Wolverine,Y,N,N,Y,N,Y,N,Y,N,Y,Y,N,Y,N,N,N,N,Y,Y
+Otter,Y,N,N,N,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+Chipmunks and Squirrels,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,N,N,N,Y,Y
+Woodchuck,Y,N,N,Y,N,Y,N,N,N,Y,Y,N,Y,N,N,N,N,Y,Y
+"Crane, Sandhill",Y,Y,N,Y,N,Y,N,Y,N,Y,N,N,Y,N,N,Y,Y,N,N
+"Crane, Whooping",Y,Y,Y,Y,N,Y,N,Y,N,Y,N,N,Y,N,N,Y,Y,N,N
+Turkey,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,N,Y,N,N,N
+Grouse,Y,N,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,N,N,N,N,Y,N
+Pheasant,Y,Y,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,N,N,N,N,Y,N
+Bird,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,Y,N,N,N,N,Y,N
+Amphibians and Reptiles,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,N,N,N,Y,N
+"Dog, Domestic",Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y
+"Cat, Domestic",Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,N,N,N,Y,Y,N
+"Pig, Feral",Y,Y,Y,Y,N,Y,N,Y,N,Y,N,Y,Y,Y,Y,N,N,Y,Y
+Human,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y,N,N
+Other Domestic,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y,Y,Y
